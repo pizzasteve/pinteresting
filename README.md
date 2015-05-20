@@ -4,3 +4,5 @@ This is the pinteresting sample application for
 [*One Month Rails*](http://onemonthrails.com)
 
 by [Steve Park] (http://stevepark.com)
+
+Test modification
